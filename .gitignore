@@ -1,0 +1,10 @@
+*.o
+*.class
+.class
+.o
+.so
+*.so
+CPP_BIO
+gmon.out
+plot.ps
+plot.png
